@@ -1,6 +1,6 @@
 # slide_bispo
 
-Font: MontSerrat
+Font: MontSerrat - Regular
 
 Color Font: #000
 
